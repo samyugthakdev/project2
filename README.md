@@ -9,3 +9,4 @@ The recruiter module is the place where the company register thier details and c
 viewing and applying for the same.
 In candidate module the job seekers will be applying for the jobs that are posted and will be receving a mail regarding the interview process.
 An entry level test will be conducted for the applicants and those who clear ,names will be sent to the company.
+This project is developed using HTML,CSS,JavaScript(For form validation),Java,JSP and MySQl.
